@@ -30,4 +30,5 @@ I imported necessary libraries for data manipulation, visualization, and cluster
 2. Added a new column, "CoinName" to the DataFrame that holds the names of the cryptocurrencies.
 3. Added a new column, "Class" to the DataFrame that holds the predictions.
 ## Deliverable 4: Visualizing Cryptocurrencies Results
-Created a 3D scatter plot with the PCA data and the clusters, including hover data for the coin name and algorithm.
+Created a scatter plot with the PCA data and the clusters.
+<img width="1303" alt="scatter" src="https://user-images.githubusercontent.com/114355199/233081843-16ad093d-8ce5-43e3-a9c8-081332bf7953.png">
